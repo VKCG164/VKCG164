@@ -6,10 +6,48 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VKCG164&layout=donut&theme=tokyonight)
 
 ## O Que Eu Uso Normalmente  
-
-- [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://youtu.be/dQw4w9WgXcQ?si=1oh0D_MRQIYU1jIl)  
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://youtu.be/dQw4w9WgXcQ?si=1oh0D_MRQIYU1jIl)  
-- [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://youtu.be/dQw4w9WgXcQ?si=1oh0D_MRQIYU1jIl)
+<p align="center"
+  <img 
+      align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+  />
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=34299&format=png&color=000000" 
+  />
+  <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+  />
+    <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    />
+    <img 
+      align="left" 
+      alt="HTML"
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
+    />
+  <p/>
 
 <p align="center">
   <img src="https://media.tenor.com/KH-EXUKEh2UAAAAi/katana-zero-zero.gif?raw=true" alt="GIF animado">  <img src="https://media.tenor.com/vJgB4gaCywUAAAAi/katanazero.gif?raw=true" alt="GIF animado">
